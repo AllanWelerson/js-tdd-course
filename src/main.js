@@ -5,6 +5,3 @@ function sum(a){
     return a
 }
 sum(c)
-
-console.log(c)
-
